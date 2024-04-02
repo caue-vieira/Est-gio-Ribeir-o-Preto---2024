@@ -1,0 +1,15 @@
+Resposta:
+S = sala
+I = interruptor
+
+Opção A:
+Acender o primeiro interruptor por tempo suficiente para a lâmpada aquecer, desligar e 
+acionar o segundo. Entrar na sala 1 e 2.
+    - Se a lâmpada da sala 1 estiver acesa e a 2 apagada e fria: S1 -> I2/S2 -> I3/S3 -> I1
+    - Se a lâmpada da sala 1 estiver acesa e a 2 apagada e quente: S1 -> I2/S2 -> I1/S3 -> I3
+    - Se a lâmpada da sala 1 estiver apagada e fria e a 2 acesa: S1 -> I3/ S2 -> I2/S3 -> I1
+
+Opção B:
+Caso conste que a lâmpada 1 seja acionada pelo interruptor 1. Verificar a segunda sala:
+    - Se estiver acesa: S1 -> I1/S2 -> I2/S3 -> I3
+    - Se estiver apagada: S1 -> I1/S2 -> I3/S3 -> I2
