@@ -4,7 +4,7 @@ b) 2, 4, 8, 16, 32, 64, ____ R: 128. Multiplicação do número atual por 2
 
 c) 0, 1, 4, 9, 16, 25, 36, ____ R: 47. Somar o próximo número ímpar à sequência
 
-d) 4, 16, 36, 64, ____ 
+d) 4, 16, 36, 64, ____ R: 100. Fórmula 4 vezes X^2 em que X são os números positivos crescentes
 
 e) 1, 1, 2, 3, 5, 8, ____ R: 13. Sequência de Fibonacci
 
